@@ -13,4 +13,9 @@
 ||wikipedia.org
 ||vercel.app
 ||vercel.com
+||duckduckgo.com
+||duck.com
+||gmail.com
+||x.com
+||instagram.com
 !---------------------EOF-----------------------
